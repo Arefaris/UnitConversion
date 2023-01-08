@@ -1,0 +1,80 @@
+body {
+    margin: 0;
+    text-align: center;
+    background: #1F2937;
+}
+
+#main {
+    font-family: 'Inter', sans-serif;
+    margin-top: -22px;
+    padding-top: 33px;
+    background: #6943FF;
+    color: #FFFFFF;
+    
+    padding-bottom: 34px;
+}
+#value {
+    text-align: center;
+    border: solid 2px #B295FF;
+    border-radius: 5px;
+    height: 83;
+    width: 117;
+    background: #6943FF;
+    font-size: 58px;
+    font-weight:800;
+    color: #FFFFFF;
+    margin-bottom: 25px;
+
+}
+
+#BConvert {
+    height: 42px;
+    width: 117px;
+    font-family: 'Inter';
+    font-style: normal;
+    font-weight: 500;
+    font-size: 16px;
+    padding: 9px 27px;
+    border-radius: 5px;
+    border: none;
+}
+
+.LengthCSS {
+    width: 500px;
+    height: 108.57px;
+    margin: auto; 
+    position: relative; 
+    align-items: center;
+    margin-top: 23px;
+    color: #CCC1FF;
+    background: #273549;
+    border-radius: 4.68077px 0px 0px 0px;
+    font-family: 'Inter', sans-serif;
+}
+
+#Length {
+    margin-top: 36px;
+}
+
+.h3CSS {
+    font-family: 'Inter', sans-serif;
+    font-weight: 400;
+    color: #FFFFFF;
+    font-size: 14px;
+}
+
+.h2CSS {
+    font-size: 20px;
+    padding-top: 31px;
+    width: 346px;
+    height: 25px;
+    margin: auto;
+    font-style: normal;
+    line-height: 20px;
+}
+
+.structure {
+    margin-left: 25px;
+    margin-right: 25px;
+    margin-bottom: 35px;
+}
